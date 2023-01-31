@@ -19,3 +19,11 @@ All files are [Jupyter Notebooks](https://jupyter.org/), which can be opened usi
   
   
 ## Time Series Decomposition
+
+- dissecting a timeseries into 3 components: Trend, Seasonality and Residual. 
+- plotting the input, and its components on subplots with a shared axis for equal comparison 
+
+##Boxplot
+
+plots the distribution of the hourly measurments, grouped by days of the week. Different time frames where used. 
+
