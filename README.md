@@ -1,5 +1,5 @@
 # NH3 Analysis
-This repository contains all code related to the Statistical and Time Series Decomposition modelling performed for the NH3 analysis project for the EO HTHT Minor.
+#### This repository contains all code related to the Statistical modelling, Time Series Decomposition and Box and histogram plotting, used for atmospheric NH3 concentration analysis project for the EO HTHT Minor.   
 
 All files are [Jupyter Notebooks](https://jupyter.org/), which can be opened using the Jupyter client or using VSCode with Jupyter plugins. The code within these notebooks is normal Python (uses Python 3.10)
 
@@ -23,7 +23,8 @@ All files are [Jupyter Notebooks](https://jupyter.org/), which can be opened usi
 - dissecting a timeseries into 3 components: Trend, Seasonality and Residual. 
 - plotting the input, and its components on subplots with a shared axis for equal comparison 
 
-##Boxplot
+## Boxplot
 
-plots the distribution of the hourly measurments, grouped by days of the week. Different time frames where used. 
+matplotlib box plots, to vizualise the distribution of the hourly measurments, grouped by days of the week.
+Different time frame/periods where selected
 
