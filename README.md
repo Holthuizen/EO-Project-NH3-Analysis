@@ -1,5 +1,5 @@
 # NH3 Analysis
-**This repository contains all code related to the Statistical modelling, Time Series Decomposition and Box-plotting, used for atmospheric NH3 concentration analysis project for the EO HTHT Minor.**
+**This repository contains all code related to the Statistical modelling, Time Series Decomposition and Line & Box-plotting, used for atmospheric NH3 concentration analysis project for the EO HTHT Minor.**
 
 All files are [Jupyter Notebooks](https://jupyter.org/), which can be opened using the Jupyter client or using VSCode with Jupyter plugins. The code within these notebooks is normal Python (uses Python 3.10)
 
